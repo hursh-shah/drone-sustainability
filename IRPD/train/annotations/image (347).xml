@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (347).jpeg</filename>
+	<path>C:\Users\coolf\Desktop\fazalProject\images\image (347).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>72</ymin>
+			<xmax>150</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>46</ymin>
+			<xmax>256</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

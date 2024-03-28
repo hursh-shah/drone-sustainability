@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (423).jpeg</filename>
+	<path>C:\Users\kanwa\Desktop\fazal project\images\image (423).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>99</ymin>
+			<xmax>332</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>178</ymin>
+			<xmax>138</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (981).jpeg</filename>
+	<path>C:\Users\reach\OneDrive\Desktop\fazal project\images\image (981).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>262</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>36</ymin>
+			<xmax>206</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>48</ymin>
+			<xmax>236</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

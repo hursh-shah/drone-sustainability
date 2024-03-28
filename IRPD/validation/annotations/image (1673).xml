@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (1673).jpeg</filename>
+	<path>C:\Users\renda\Desktop\Fazal Project\images\image (1673).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>11</ymin>
+			<xmax>439</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>patch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>59</ymin>
+			<xmax>580</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
